@@ -1,32 +1,72 @@
-Burger Shop
-Description: Burger Shop is an interactive website built using HTML, CSS, and JavaScript. It allows users to customize their burgers by adding various ingredients, view the total price, and place their order. The app provides a smooth and responsive user experience with a modern interface, making it easy and fun to design your ideal burger!
+# 🍔 Deva's Burger Shop
 
-Features:
+**Live Demo:** [https://devas-burgershop.netlify.app](https://devas-burgershop.netlify.app)
 
-Burger Customization: Choose from various ingredients (bun, patty, cheese, sauces, etc.)
+Deva's Burger Shop is a modern, visually appealing frontend web application designed to showcase a stylish burger ordering interface. This project focuses on clean UI, responsive design, interactive elements, and an engaging user experience—all developed using only HTML, CSS, and JavaScript.
 
-Price Calculation: View the total price of the selected ingredients
+---
 
-Responsive Design: The website adjusts to different screen sizes (mobile, tablet, desktop)
+## 🚀 Features
 
-Interactive UI: Smooth animations and transitions for an engaging experience
+- 🍔 Interactive burger menu UI
+- 📱 Fully responsive design for all devices
+- 🎨 Custom styling with creative layout and colors
+- 💡 Animations and hover effects for better user experience
+- 🖼️ Product cards showcasing burger items with price and buttons
+- 🧭 Smooth navigation bar for better page flow
 
-Technologies Used:
+---
 
-HTML for structure
+## 🔧 Tech Stack
 
-CSS for styling and layout (responsive design)
+- **HTML5** – For the structure
+- **CSS3** – For styling and responsiveness
+- **JavaScript** – For interactive behavior
 
-JavaScript for interactivity and price calculations
+---
 
-How to Use:
+## 📁 Folder Structure
 
-Open the website.
+Devas-BurgerShop/ ├── index.html ├── style.css ├── script.js └── assets/ └── images/
 
-Select your burger ingredients from the available options.
 
-The total price will automatically update based on your selection.
+---
 
-Enjoy designing your personalized burger!
+## 🎯 Purpose
 
-Installation: Clone the repository or download the project files, and open the index.html file in a browser to get started.
+This project was built as a UI design showcase. It does **not include backend functionalities** like order placement or real database handling. The main goal is to demonstrate frontend skills in a fun and appetizing way!
+
+---
+
+##
+
+---
+
+## 🧑‍💻 Author
+
+**Deva Veera Kumaran S**
+
+- 🏫 BE CSE, Coimbatore Institute of Engineering and Technology
+- 🌐 Portfolio: [https://portfolio-deva-3019.netlify.app/](https://portfolio-deva-3019.netlify.app/)
+- 📧 Email: *vinothkumaran1930\@gmail.com*
+
+---
+
+## 🌐 Deployment
+
+This project is hosted on **Netlify**\
+👉 [https://devas-burgershop.netlify.app](https://devas-burgershop.netlify.app)
+
+---
+
+## ✅ Status
+
+✔️ Frontend UI completed\
+❌ No backend integration (static project)
+
+---
+
+## 📌 License
+
+This project is open for learning and showcase purposes. Feel free to fork and modify.
+
